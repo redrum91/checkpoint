@@ -1,7 +1,5 @@
 # Checkpoint - Linux Disk Manager CLI
 
-A modern CLI tool for managing storage disks and installations on Linux systems, built with Go 1.24.
-
 ## Introduction
 
 This project was created for newcomers like myself transitioning from Windows to Linux, to help understand the Linux filesystem and make storage management and software installation simpler and more intuitive. It bridges the gap between Windows' familiar drive interface and Linux's powerful but sometimes complex storage system.
@@ -58,7 +56,6 @@ The app starts in friendly view by default, showing drives in a Windows-like for
 
 ## Requirements
 
-- Linux kernel 3.2 or later
 - Go 1.24 or later
 - No root/sudo required - runs with user permissions
 
@@ -74,7 +71,3 @@ Feel free to:
 ## Disclaimer
 
 Just in case there are any issues due to this program, I am not responsible. Use at your own risk.
-
-## License
-
-MIT
