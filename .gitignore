@@ -1,5 +1,4 @@
-# Binary
-checkpoint
+
 
 # Go build files
 *.exe
@@ -20,3 +19,5 @@ checkpoint
 
 # Go sum backup (if any)
 go.sum.backup
+
+
