@@ -1,0 +1,22 @@
+# Binary
+checkpoint
+
+# Go build files
+*.exe
+*.test
+*.out
+
+# IDE
+.vscode/
+*.swp
+*~
+
+# OS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
+
+# Go sum backup (if any)
+go.sum.backup
